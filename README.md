@@ -1,5 +1,6 @@
 # banco-de-dados-supermercado
 
+```sql
 create database supermercadosalvatore;
 use supermercadosalvatore;
 
@@ -190,3 +191,7 @@ select * from itens_venda;
 select * from produtos_promocoes;
 
 show tables;
+```
+
+
+ 
